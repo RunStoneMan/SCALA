@@ -2,3 +2,4 @@
 * text=auto
 *.scala linguist-language=Scala
 *.Xml linguist-language=Scala
+*.xml linguist-language=Scala
